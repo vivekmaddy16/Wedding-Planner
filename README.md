@@ -64,4 +64,4 @@ To view this project locally:
 
 ## 📝 License
 
-&copy; 2023 Vivek Maddheshiya. All rights reserved.
+&copy; 2026 Vivek Maddheshiya. All rights reserved.
